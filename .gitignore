@@ -1,0 +1,3 @@
+/target
+# Because this is a binary application
+Cargo.lock
